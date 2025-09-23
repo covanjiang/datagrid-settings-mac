@@ -16,13 +16,6 @@
     <keyboard-shortcut first-keystroke="f4" />
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
-  <action id="Jdbc.OpenEditor.DDL">
-    <keyboard-shortcut first-keystroke="meta b" />
-    <mouse-shortcut keystroke="meta button1" />
-    <mouse-shortcut keystroke="Force touch" />
-    <mouse-shortcut keystroke="button2" />
-    <keyboard-shortcut first-keystroke="meta 5" />
-  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
