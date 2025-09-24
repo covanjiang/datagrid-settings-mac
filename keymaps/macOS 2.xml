@@ -1,10 +1,4 @@
 <keymap version="1" name="macOS 通用快捷键" parent="Mac OS X 10.5+">
-  <action id="ActivateDatabaseToolWindow">
-    <keyboard-shortcut first-keystroke="alt 2" />
-    <keyboard-shortcut first-keystroke="alt 1" />
-    <keyboard-shortcut first-keystroke="meta 1" />
-    <keyboard-shortcut first-keystroke="meta 2" />
-  </action>
   <action id="ActivateFindToolWindow" />
   <action id="ActivateGitHubCopilotChatToolWindow">
     <keyboard-shortcut first-keystroke="shift meta j" />
@@ -12,6 +6,15 @@
   <action id="ActivateProjectToolWindow" />
   <action id="Console.Jdbc.Execute">
     <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="Console.TableResult.EditValueMaximized">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="Console.TableResult.HideEditMaximized">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
