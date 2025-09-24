@@ -15,4 +15,7 @@
   <component name="InlineCompletionOnboarding">
     <option name="onboardingFinished" value="true" />
   </component>
+  <component name="SqlEditorTabsSettings" SHORTEN_TAB_NAMES="false">
+    <option name="shortenTabNames" value="false" />
+  </component>
 </application>
