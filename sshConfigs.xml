@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="console01.domob.cn" id="3f87ae18-7b77-46a8-b271-7a61af3e1288" port="1422" nameFormat="DESCRIPTIVE" username="gongjuanli" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
