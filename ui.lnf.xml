@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="24" />
     <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
+    <option name="MAX_LOOKUP_WIDTH2" value="625" />
     <option name="REMEMBER_SIZE_FOR_EACH_TOOL_WINDOW_NEW_UI" value="true" />
     <option name="SHOW_TOOL_WINDOW_NAMES" value="true" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
