@@ -8,8 +8,8 @@
         <entry key="*" value="true" />
       </map>
     </languageAllowList>
-    <option name="selectedCompletionModel" value="gpt-41-copilot" />
     <option name="terminalRulesVersion" value="2" />
     <option name="legacyXdgConfigMigrated" value="true" />
+    <option name="defaultMarketplacesSeeded" value="true" />
   </component>
 </application>
